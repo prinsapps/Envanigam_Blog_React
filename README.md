@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Link (Deployed from netlify)
+https://my-react-blog.netlify.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
